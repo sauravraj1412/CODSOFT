@@ -1,5 +1,5 @@
-🚀 Welcome to  my latest project, the "Landing Page"! 
-This is Task 1 of the Codsoft virtual internship. I've created it using HTML and CSS. HTML was used to structure the elements, while CSS was employed for the design.
+🚀 Welcome to  my project, the "Landing Page"! 
+This is Task 01 of the Codsoft virtual internship. I've created it using HTML and CSS. HTML was used to structure the elements, while CSS was employed for the design.
 
 Click the link below to explore the landing page!
 
